@@ -1,0 +1,36 @@
+{
+  "result": {
+    "data": [
+      {
+        "id": 0,
+        "name": "James",
+        "surname": "Browning",
+        "phone": "+48 567 847 839",
+        "line": "SC 5445M",
+        "car": "Skoda Octavia, Black",
+        "date": "Nov 14, 2023",
+        "time": "04:34 PM"
+      },
+      {
+        "id": 1,
+        "name": "Emily",
+        "surname": "Johnson",
+        "phone": "+49 123 456 789",
+        "line": "KX 7235T",
+        "car": "Toyota Corolla, Red",
+        "date": "Dec 5, 2023",
+        "time": "10:15 AM"
+      },
+      {
+        "id": 2,
+        "name": "Michael",
+        "surname": "Smith",
+        "phone": "+33 987 654 321",
+        "line": "BC 1023R",
+        "car": "Honda Civic, Silver",
+        "date": "Oct 22, 2023",
+        "time": "01:00 PM"
+      }
+    ]
+  }
+}
